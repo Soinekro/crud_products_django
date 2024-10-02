@@ -1,4 +1,5 @@
 # Clonación del Repositorio y Configuración de una Aplicación Django
+# crud de productos en url admin proporcionada por django
 
 ## Paso 1: Clonar el Repositorio
 
@@ -15,7 +16,6 @@ debes tener instalado [python 3](https://www.python.org/downloads) y [pip](https
 
 ```bash
 python -m pip install Django
-source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
 ```
 
 
